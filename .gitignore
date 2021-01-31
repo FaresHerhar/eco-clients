@@ -1,0 +1,8 @@
+#junk configuration files
+.vscode
+.ipynb_checkpoints
+
+# dataset files
+data/
+data-info/
+cleaned-data/
