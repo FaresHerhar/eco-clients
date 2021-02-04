@@ -2,10 +2,8 @@
 
 ## TODO
 
-### 1 Feb 2021
+### 5-11 Feb 2021
 
-* recalculate the PCA
-* Redo the clusters, as well as the joining
-* Figure out the number of clusters
-* Do some fancy graph
-* Prepare the presentation, along your arguments
+* Still 30 other tables to inspect
+* Find new correlations between the tables
+* Learn more about unsupervised learning
