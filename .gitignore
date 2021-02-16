@@ -6,3 +6,6 @@
 data/
 data-info/
 cleaned-data/
+
+# files to send
+ignore/
