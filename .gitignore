@@ -9,3 +9,6 @@ cleaned-data/
 
 # files to send
 ignore/
+
+# configuration file
+go.sh
