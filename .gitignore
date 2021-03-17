@@ -7,8 +7,5 @@ data/
 data-info/
 cleaned-data/
 
-# files to send
-ignore/
-
 # configuration file
 go.sh
