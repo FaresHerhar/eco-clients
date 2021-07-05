@@ -1,2 +1,2 @@
-git commit -m "HOST :: `hostname` | TIME :: `date`" .
-git push origin master
+git commit -m "`hostname` | `date`"
+git push origin temp
